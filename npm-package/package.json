@@ -1,0 +1,41 @@
+{
+  "name": "skool-community-templates",
+  "version": "1.0.0",
+  "description": "CLI tool to generate Skool community management templates — onboarding checklists, DM sequences, content calendars, member reactivation workflows, and churn prevention systems.",
+  "main": "index.js",
+  "bin": {
+    "skool-community-templates": "./bin/cli.js"
+  },
+  "keywords": [
+    "skool",
+    "community",
+    "community-management",
+    "templates",
+    "onboarding",
+    "dm-sequences",
+    "content-calendar",
+    "churn-prevention",
+    "member-engagement",
+    "skool-automation",
+    "community-templates",
+    "member-retention"
+  ],
+  "author": "StickyHive <hello@stickyhive.ai> (https://stickyhive.ai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stickyhive/skool-community-management-templates.git"
+  },
+  "homepage": "https://stickyhive.github.io/skool-community-management-templates/",
+  "bugs": {
+    "url": "https://github.com/stickyhive/skool-community-management-templates/issues"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
