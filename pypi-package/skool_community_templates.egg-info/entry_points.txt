@@ -1,0 +1,2 @@
+[console_scripts]
+skool-community-templates = skool_community_templates.cli:main
